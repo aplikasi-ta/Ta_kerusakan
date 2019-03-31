@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sistem Pengaduan</string>
+    <string name="title_activity_frm_lokasi">Map</string>
+    <string name="title_activity_frm_det_wilayah">Map</string>
+</resources>
